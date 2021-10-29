@@ -44,4 +44,4 @@ Para utilizar a aplicação basta rodar o comando `npm start` tanto no pasta `./
 
 ### Consulta na API pelo Postman
 
-<img src='./images/tarefas_API.png'>
+![](./images/tarefas_API.jpg)
