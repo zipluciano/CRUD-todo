@@ -36,11 +36,3 @@ Para utilizar a aplicação basta rodar o comando `npm start` tanto no pasta `./
 #### Tarefas editadas
 
 <img src='./images/tarefas_editadas.png'>
-
-#### Tarefas no banco de dados
-
-![](./images/tarefas_banco.png)
-
-### Consulta na API pelo Postman
-
-![](./images/tarefas_API.png)
