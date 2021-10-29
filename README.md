@@ -4,8 +4,9 @@ Esta aplicação do tipo "TODO List", foi construída com a Stack React | Node |
 
 ## Instalando Dependências
 
-- Para utilizar o projeto é necessário possuir o banco de dados PostgreSQL versão 13.2 ou superior
-- Node versão 14.17.5 ou superior
+Para utilizar o projeto é necessário: 
+- Banco de dados PostgreSQL versão 13.2 no mínimo
+- Node.js versão 14.17.5 no mínimo
 
 ## Utilização
 
