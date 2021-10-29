@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans&family=Roboto&display=swap');
+
+/* Estilos do POST */
+
+.header-page {
+	width: 100vw;
+	min-height: 20vh;
+	padding-top: 1.5vh;
+	padding-bottom: 1.5vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 8vh;
+}
+
+.header-page h1 {
+	padding-top: 1.5vh;
+	padding-bottom: 1.5vh;
+	text-align: center;
+}
+
+.header-page form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 3%;
+	min-width: 75vw;
+}
+
+.header-page input {
+	max-width: 60%;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.header-page button {
+	min-width: 10%;
+	max-width: 50%;
+	min-height: 5vh;
+	word-wrap: break-word;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 2%;
+	padding-right: 2%;
+	font-size: 24px;
+	font-family: 'Josefin Sans', sans-serif;
+	background: lightgreen;
+	border-radius: 2vh;
+	border: solid transparent;
+	transition: linear 100ms;
+	background-color: #4caf50;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	color: rgb(0, 0, 0);
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+.header-page button:hover {
+	box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+		0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Estilos do GET */
+
+.list-tasks {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	min-height: 80vh;
+}
+
+.task {
+	border-top: solid 2px silver;
+	border-bottom: solid 2px silver;
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-width: 80%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.task p {
+	min-width: 75%;
+	display: flex;
+	margin-left: 10px;
+	margin-right: 10px;
+	justify-content: flex-start;
+	align-items: center;
+	font-size: 25px;
+}
+
+.manager {
+	display: flex;
+	justify-content: space-between;
+	min-width: 10%;
+}
