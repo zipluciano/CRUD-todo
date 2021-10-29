@@ -16,7 +16,7 @@ Primeiro é necessário clonar este repositório
 
 Tanto na pasta `./server` quanto `./client` executar o comando `npm install` para baixar as dependências do projeto
 
-Dentro da pasta `./server` utilizar o comando `npm install dotenv` e na mesma pasta criar um arqivo chama `.env` com as informações da base de dados. Mais informações sobre arquivos dotenv você encontra aqui https://github.com/motdotla/dotenv
+Dentro da pasta `./server` utilizar o comando `npm install dotenv` e na mesma pasta criar um arqivo chamado `.env` com as informações da base de dados. Mais informações sobre dotenv você encontra aqui https://github.com/motdotla/dotenv
 
 Para utilizar a aplicação basta rodar o comando `npm start` tanto no pasta `./server` como `./client`
 
