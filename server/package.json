@@ -1,13 +1,13 @@
 {
 	"name": "server",
 	"version": "1.0.0",
-	"description": "Luciano <luciano.es.mo@gmail.com>",
+	"description": "Node CRUD",
 	"main": "index.js",
 	"scripts": {
 		"start": "nodemon index.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Luciano E. Monteiro",
+	"author": "Luciano <luciano.es.mo@gmail.com>",
 	"license": "ISC",
 	"dependencies": {
 		"cors": "^2.8.5",
