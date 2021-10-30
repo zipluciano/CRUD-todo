@@ -13,9 +13,7 @@ Primeiro é necessário clonar este repositório
 
 `git clone https://github.com/zipluciano/CRUD-todo.git`
 
-Tanto na pasta `./server` quanto `./client` executar o comando `npm install` para baixar as dependências do projeto
-
-Dentro da pasta `./server` utilizar o comando `npm install dotenv` e na mesma pasta criar um arqivo chama `.env` com as informações da base de dados. Mais informações sobre arquivos dotenv você encontra aqui https://github.com/motdotla/dotenv
+Tanto na pasta `./server` quanto `./client` executar o comando `npm install` para baixar as dependências do projeto.
 
 Para utilizar a aplicação basta rodar o comando `npm start` tanto no pasta `./server` como `./client`
 
